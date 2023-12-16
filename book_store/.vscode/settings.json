@@ -1,6 +1,6 @@
 {
     "python.pythonPath": "C:/Python312/python.exe",
-    "window.zoomLevel": 1,
+    "window.zoomLevel": 0,
     "python.languageServer": "Pylance",
     "files.associations": {
         "**/*.html": "html",
